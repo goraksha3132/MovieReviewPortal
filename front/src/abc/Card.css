@@ -1,0 +1,26 @@
+.body{
+    background-color: black;
+}
+
+.card1{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+  
+}
+
+.btn{
+    background-color:rgb(11, 10, 10);
+    border-color: red;
+    border-radius: 8px;
+    padding: 8px 50px;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #ffffff;
+    border-width: 1px;
+    margin-top: 8px;
+}
+
+.card{
+    background-color: white;
+}
