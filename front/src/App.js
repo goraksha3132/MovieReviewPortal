@@ -8,7 +8,7 @@ import Home from "./components/Home";
 import Contact from "./components/Contact";
 import About from "./components/About";
 import Watchlist from "./components/Watchlist";
-import Header from "./components/Header";
+
 import "./App.css";
 import TV_Streaming from "./components/TV_Streming";
 
